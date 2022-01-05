@@ -1,4 +1,13 @@
 ---
 theme: jekyll-theme-minimal
 title: Antfield Creations
-description: "Antfield Creations: software and art. In whatever order."
+description: |
+  Antfield Creations: software and art. In whatever order.
+  <br>
+  <br>
+  KvK: 84941634
+  <br>
+  Vestigingsnummer 000051027410
+  <br>
+  rein@vantveer.me
+markdown: gfm
