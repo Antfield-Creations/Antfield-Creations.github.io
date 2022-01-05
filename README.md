@@ -1,2 +1,2 @@
-# Antfield-Creations.github.io
-Main website for antfield.nl
+# Antfield Creations
+Hi. We make software and art. Or art and software, whichever comes first.
