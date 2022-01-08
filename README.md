@@ -1,20 +1,28 @@
 # Antfield Creations
-Hi. We make software and art, in no particular order and sometimes simultaneously.
+Hoi. Antfield maakt software and kunst, in willekeurige volgorde en soms tegelijk.
+
+<img src="static/img/showcase.png" height="25%" width="25%" alt="Software en kunst???">
 
 ## Software
 
-Senior freelance remote software engineer in Python/Rust/Geo/Heritage subdomains.
+Senior freelance remote software engineer in Python/Rust/Geo/Erfgoed.
 
-### We specialize in the following fields
-- Python developer 7y+,  [Pypi.org published](https://pypi.org/project/deep-geometry), Geo and Machine Learning experience, read about it on https://arxiv.org/abs/1806.03857
-- Open source geospatial engineer 15y+, with contributions to QGIS project
-- Kubernetes Argo workflow engineer 2y+, with several contributions to Argo Helm project
-- "Test advocate" 6y+
-- Rust developer 2y+, with contributions to 
-  - retro-embedded Rust the [Rust Sega Megadrive project](https://github.com/ricky26/rust-mega-drive) 
-- QGIS plugin and test engineer: read about it on [my blog](https://reinvantveer.github.io/2021/04/10/qgis-plugin-development.html)
+### Expertise
 
-### Preferences
-- Open source wherever possible
-- Adamant on knowledge transfer: I only got here because of the people who tutored me!
-- Remote or hybrid, project-based freelance
+- Python developer 7jr+, 
+  - [Pypi.org published](https://pypi.org/project/deep-geometry), Geo and Machine Learning
+    ervaring, lees meer op https://arxiv.org/abs/1806.03857
+  - QGIS plugin and test engineer: lees erover
+    op [mijn blog](https://reinvantveer.github.io/2021/04/10/qgis-plugin-development.html)
+- Open source geo engineer 15jr+
+- Kubernetes Argo workflow engineer 2jr+, met verschillende bijdragen aan
+  het [Argo Helm](https://github.com/argoproj/argo-helm) project
+- "Test advocate" 6jr+
+- Rust ontwikkelaar 2jr+, met bijdragen aan 
+  - retro-embedded Rust voor de [Rust Sega Megadrive](https://github.com/ricky26/rust-mega-drive) 
+  - [Rust Kubernetes Operator prototype](https://github.com/Pscheidl/rust-kubernetes-operator-example/pull/6)
+
+### Voorkeuren
+- Open source waar mogelijk
+- Toegewijd aan kennisoverdracht: ik ben hier gekomen dankzij diegenen die mij onderwezen hebben!
+- Remote of hybride, freelance projecten
