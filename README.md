@@ -1,5 +1,5 @@
 # Antfield Creations
-Hoi. Antfield maakt software and kunst, in willekeurige volgorde en soms tegelijk.
+Antfield maakt software and kunst, in willekeurige volgorde en soms tegelijk.
 
 <img src="static/img/showcase.png" height="50%" width="50%" alt="Software en kunst???">
 
