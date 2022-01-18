@@ -1,0 +1,26 @@
+button.table-button {
+    background-color: #04AA6D;
+    border: none;
+    text-align: center;
+    line-height: 1.5;
+    border-radius: 5px;
+    padding: 6px 18px;
+    position: absolute;
+    alignment: left;
+    bottom: 0;
+    left: 0;
+}
+
+#column1 {
+    width: 50%;
+    display: table-cell;
+    margin: 10%;
+    height: auto;
+    position: relative;
+}
+
+#column2 {
+    display: table-cell;
+    position: relative;
+    height: auto;
+}
