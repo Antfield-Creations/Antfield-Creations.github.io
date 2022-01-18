@@ -5,7 +5,7 @@
 
 Voor de tentoonstelling 
 [REVISITED Via Appia](https://www.museumhetvalkhof.nl/zien-en-doen/tentoonstellingen/revisited-via-appia/) heb ik in
-opdracht van [VU SPINlab(https://spinlab.vu.nl/) modellen geprint van twee grafmonumenten, die in de tentoonstelling een
+opdracht van [VU SPINlab](https://spinlab.vu.nl/) modellen geprint van twee grafmonumenten, die in de tentoonstelling een
 plek hebben gekregen.
 
 <a href="/static/img/via_appia_tumuli_1.png">
