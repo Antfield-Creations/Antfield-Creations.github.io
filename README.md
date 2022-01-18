@@ -4,28 +4,49 @@
 
 Antfield maakt software and kunst, in willekeurige volgorde en soms tegelijk.
 
-<img src="static/img/showcase.png" height="50%" width="50%" alt="Software en kunst???">
+<img src="static/img/showcase.png" height="75%" width="75%" alt="Software en kunst???">
+
+<br>
+<br>
+
+<div id="boxes" style="display: table; position: relative;">
+<div style="display: table-row; position: relative;">
+
+<div id="column1">
 
 ## Software
 
-Senior freelance remote software engineer in Python/Rust/Geo/Erfgoed.
+Senior freelance remote software engineer in 
+- Python
+- Kubernetes cloud
+- Rust
+- Geo
+- Erfgoed
 
-### Expertise
+<button class="table-button" type="button">
+<a href="pages/software.html" style="color: #ffffff;">
+Bekijk projecten 🛠️
+</a>
+</button>
 
-- Python developer 7jr+, 
-  - [Pypi.org published](https://pypi.org/project/deep-geometry), Geo and Machine Learning
-    ervaring, lees meer op https://arxiv.org/abs/1806.03857
-  - QGIS plugin and test engineer: lees erover
-    op [mijn blog](https://reinvantveer.github.io/2021/04/10/qgis-plugin-development.html)
-- Open source geo engineer 15jr+
-- Kubernetes Argo workflow engineer 2jr+, met verschillende bijdragen aan
-  het [Argo Helm](https://github.com/argoproj/argo-helm) project
-- "Test advocate" 6jr+
-- Rust ontwikkelaar 2jr+, met bijdragen aan 
-  - retro-embedded Rust voor de [Rust Sega Megadrive](https://github.com/ricky26/rust-mega-drive) 
-  - [Rust Kubernetes Operator prototype](https://github.com/Pscheidl/rust-kubernetes-operator-example/pull/6)
+<br>
+<br>
+</div>
 
-### Voorkeuren
-- Open source waar mogelijk
-- Toegewijd aan kennisoverdracht: ik ben hier gekomen dankzij diegenen die mij onderwezen hebben!
-- Remote of hybride, freelance projecten
+<div id="column2">
+
+## Kunst
+
+3D print kunstenaar
+
+<button class="table-button" type="button">
+<a href="pages/art.html" style="color: #ffffff">
+Bekijk werken 🛠️
+</a>
+</button>
+
+</div>
+</div>
+
+</div>
+
