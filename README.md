@@ -41,7 +41,7 @@ Bekijk projecten 🛠️
 
 <button class="table-button" type="button">
 <a href="pages/art.html" style="color: #ffffff">
-Bekijk werken 🛠️
+Bekijk werken 🏺
 </a>
 </button>
 
