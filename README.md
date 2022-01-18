@@ -1,3 +1,5 @@
+<link type="text/css" rel="stylesheet" href="static/style/style.css">
+
 # Antfield Creations
 Antfield maakt software and kunst, in willekeurige volgorde en soms tegelijk.
 
