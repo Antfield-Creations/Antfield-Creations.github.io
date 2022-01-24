@@ -1,5 +1,34 @@
 # Kunstprojecten
 
+## Ieks!
+#### 24-1-2022
+
+Het eerste kunstwerk uit het nieuwe atelier, uit de nieuwe printer! "Ieks!" speelt met oud en nieuw, met natuurlijk en
+artificieel. Het fossiel is echt: een [Knightia alta](https://en.wikipedia.org/wiki/Knightia), familie van de haring en
+sardine. Het fossiel is afkomstig uit Wyoming, USA en is ~34-56 miljoen jaar oud. Om het contrast te versterken: de PLA
+waaruit het vrouwelijke model is vervaardigd, is geproduceerd uit 
+[gefermenteerd plantaardig zetmeel](https://en.wikipedia.org/wiki/Polylactic_acid#Synthesis), een paar jaar geleden.
+
+<figure>
+    <a href="/static/img/ieks-full.png">
+        <img alt="Ieks!" src="/static/img/ieks-thumbnail.png" title="Ieks!" width="100%"/>
+    </a>
+    <figcaption>
+        <p>"Ieks!"</p>
+        <p><i>Materialen: kalksteen, fossiel (Knightia alta, Wyoming Kemmemer USA, 34-56 miljoen jaar geleden), PLA, secondelijm</i></p>
+    </figcaption>
+</figure>
+
+<figure>
+    <a href="/static/img/ieks2-full.png">
+        <img alt="Ieks!" src="/static/img/ieks2-thumbnail.png" title="Ieks!" width="100%"/>
+    </a>
+    <figcaption>
+        <p>"Ieks!"</p>
+        <p><i>Materialen: kalksteen, fossiel (Knightia alta, Wyoming Kemmemer USA, 34-56 miljoen jaar geleden), PLA, secondelijm</i></p>
+    </figcaption>
+</figure>
+
 ## Via Appia
 #### 15-12-2021
 
