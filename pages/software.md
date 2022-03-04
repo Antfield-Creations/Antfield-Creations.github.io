@@ -19,3 +19,24 @@
 - Open source waar mogelijk
 - Toegewijd aan kennisoverdracht: ik ben hier gekomen dankzij diegenen die mij onderwezen hebben!
 - Remote of hybride, freelance projecten
+
+## Projecten
+### "Side project": tutorial Kubernetes Operators met Argo ecosysteem
+_28-2-2022_
+
+Eigenlijk gewoon uit nieuwsgierigheid, maar ook uit grote interesse voor [Argo](https://argoproj.io) zocht ik uit hoe je
+_zonder Operator SDK_ toch met minimale inspanning
+een [Kubernetes Operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) patroon kon invullen. 
+Kubernetes Operators vormen over het algemeen uitbreidingen op de Kubernetes basis-API, maar ze kunnen ook naar 
+standaard resources luisteren.
+
+Het komt erop neer dat je met [Argo Events](https://argoproj.github.io/argo-events/)
+en [Argo Workflows](https://argoproj.github.io/argo-workflows/)
+een volledige operator kan opbouwen, die de volgende voordelen kent:
+
+* Voor eenvoudige functionaliteit is geen custom Docker image vereist, met daarmee minder onderhoudslast
+* De operator is op deze wijze met een handvol Kubernetes manifests te realiseren
+* De werking van de operator is vele malen beter inzichtelijk omdat deze in de Argo gebruikersinterface is te
+  inspecteren
+
+[Lees hier de volledige tutorial](https://reinvantveer.github.io/2022/01/29/easier-operator.html)
