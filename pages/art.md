@@ -5,9 +5,9 @@
 Voor Huis Miereveld deed ik een herinrichting van de vitrine die eerder in de school dienst deed:
 
 <figure>
-    <img alt="Wisseltentoonstelling" src="/static/img/wisseltentoonstelling.png" title="Wisseltentoonstelling" width="100%"/>
+    <img alt="Wisseltentoonstelling" src="/static/img/wisseltentoonstelling.png" title="Wisseltentoonstelling"/>
     <figcaption>
-        <p>"Gaan!"</p>
+        <p>Wisseltentoonstelling Huis Miereveld</p>
         <p><i>Materialen:Hout, LED-strip, PLA, fossiel, hout</i></p>
     </figcaption>
 </figure>
