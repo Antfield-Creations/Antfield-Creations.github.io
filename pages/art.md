@@ -1,5 +1,24 @@
 # Kunstprojecten
 
+## Wisseltentoonstelling Huis Miereveld
+
+Voor Huis Miereveld deed ik een herinrichting van de vitrine die eerder in de school dienst deed:
+
+<figure>
+    <img alt="Wisseltentoonstelling" src="/static/img/wisseltentoonstelling.png" title="Wisseltentoonstelling" width="100%"/>
+    <figcaption>
+        <p>"Gaan!"</p>
+        <p><i>Materialen:Hout, LED-strip, PLA, fossiel, hout</i></p>
+    </figcaption>
+</figure>
+
+De vitrine is vrijwel helemaal gebleven zoals die was tijdens de Bilalschool-periode. Ik heb LED-verlichting in de vorm
+van een strip langs het frame van de beglazing aangebracht, wat een mooie egale belichting bewerkstelligt. De beelden, 
+van links naar rechts:
+* ["Ieks!"](#ieks), op draaiplateau zodat het goed van alle kanten te bekijken is
+* De Baadster
+* ["Gaan!"](#gaan)
+
 ## Gaan!
 ### 28-2-2022
 
