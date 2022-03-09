@@ -1,10 +1,10 @@
 <link type="text/css" rel="stylesheet" href="static/style/style.css">
 
-# Antfield Creations
+# Creativiteit in software en kunst
 
 Antfield maakt software and kunst, in willekeurige volgorde en soms tegelijk.
 
-<img src="static/img/showcase.png" height="75%" width="75%" alt="Software en kunst???">
+<img src="static/img/showcase.png" height="90%" width="90%" alt="Software en kunst???">
 
 <br>
 <br>
