@@ -1,5 +1,23 @@
 # Kunstprojecten
 
+## Gaan!
+### 28-2-2022
+
+"Gaan!" is een samengesteld werk van twee figuren - een man die rennend een vrouw op zijn rug draagt, zij die hem
+aanmoedigt. Het eerste werk waarbij ik een circulatiepomp heb ingezet om de PVA beter los te spoelen, met succes.
+
+Het beeld is onderdeel van de wisseltentoonstelling in Huis Miereveld.
+
+<figure>
+    <a href="/static/img/gaan-full.png">
+        <img alt="Gaan!" src="/static/img/gaan-thumbnail.png" title="Gaan!" width="100%"/>
+    </a>
+    <figcaption>
+        <p>"Gaan!"</p>
+        <p><i>Materialen:PLA, secondelijm</i></p>
+    </figcaption>
+</figure>
+
 ## Ieks!
 #### 24-1-2022
 
