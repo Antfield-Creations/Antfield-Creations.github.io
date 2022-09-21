@@ -1,6 +1,23 @@
 # Kunstprojecten
 
+## Slaap
+### 21-9-2022
+
+Slaap is gemodelleerd naar een pose tijdens een modeltekensessie - mijn ateliergenoten tekenden en ik "schetste" 
+digitaal mee in 3D. De pose verder uitgewerkt en met eenvoudige hobbylijm gemonteerd op de fossiele ammoniet. 
+
+<figure>
+    <a href="/static/img/slaap-full.png">
+        <img alt="Slaap" src="/static/img/slaap-thumbnail.png" title="Slaap"/>
+    </a>
+    <figcaption>
+        <p>Sculptuur "Slaap"</p>
+        <p><i>Materialen:PLA, ammoniet (fossiel)</i></p>
+    </figcaption>
+</figure>
+
 ## Wisseltentoonstelling Huis Miereveld
+### 9-3-2022
 
 Voor Huis Miereveld deed ik een herinrichting van de vitrine die eerder in de school dienst deed:
 
