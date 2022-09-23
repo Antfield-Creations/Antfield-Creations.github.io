@@ -1,5 +1,24 @@
 # Kunstprojecten
 
+## Vervlochten
+### 23-9-2022
+
+"Vervlochten" is een sculptuur van twee dansers, elk balancerend op één been, het andere achter zich omhoog en achter
+zich vastgegrepen door hun eigen hand. Doordat ze elk met een andere hand het been achter zich grijpen, kunnen hun
+benen zich achter zich ineen haken, in een nét niet symmetrisch beeld. Met de vrije hand reiken ze achter zich naar de
+arm van de ander.
+
+<figure>
+    <a href="/static/img/vervlochten-full.png">
+        <img alt="Slaap" src="/static/img/vervlochten-thumbnail.png" title="Vervlochten"/>
+    </a>
+    <figcaption>
+        <p>Sculptuur "Vervlochten"</p>
+        <p><i>Materialen:PLA</i></p>
+    </figcaption>
+</figure>
+
+
 ## Slaap
 ### 21-9-2022
 
