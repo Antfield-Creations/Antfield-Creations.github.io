@@ -4,4 +4,5 @@ install:
 	bundle install
 
 serve:
+	which bundler || ${MAKE} install
 	bundler exec jekyll serve
