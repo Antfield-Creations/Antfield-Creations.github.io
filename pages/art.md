@@ -1,5 +1,25 @@
 # Kunstprojecten
 
+## Marichy
+### 11-6-2023
+
+"Marichi" beeldt de klassieke yoga-pose Marichyasana B uit: "Marichy's houding". In het maken van scultpuren en
+fotografie laat ik mij vaak inspireren door klassieke poses - yoga vormt een onuitputtelijke bron van schoonheid om
+invulling te geven aan de meest prachtige figuurstudies. In dit geval heb ik de sculptuur gecombineerd met een fossiel,
+een half-doorgeslepen en gepolijste grote ammoniet.
+
+<figure>
+    <a href="/static/img/marichyasana/DSC09652_wm_10pct.JPG">
+        <img alt="Slaap" src="/static/img/marichyasana/DSC09652_wm_thumb.JPG" title="Marichi"/>
+    </a>
+    <figcaption>
+        <p>Sculptuur "Marichi"</p>
+        <p><i>Materialen: PLA, Fossiel</i></p>
+    </figcaption>
+</figure>
+
+Zie ook de externe link met [meer afbeeldingen](https://purpleport.com/portfolio-image-album.asp?id=171292).
+
 ## Vervlochten
 ### 23-9-2022
 
@@ -22,7 +42,7 @@ arm van de ander.
 ## Slaap
 ### 21-9-2022
 
-Slaap is gemodelleerd naar een pose tijdens een modeltekensessie - mijn ateliergenoten tekenden en ik "schetste" 
+"Slaap" is gemodelleerd naar een pose tijdens een modeltekensessie - mijn ateliergenoten tekenden en ik "schetste" 
 digitaal mee in 3D. De pose verder uitgewerkt en met eenvoudige hobbylijm gemonteerd op de fossiele ammoniet. 
 
 <figure>
