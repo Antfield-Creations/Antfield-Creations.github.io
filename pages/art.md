@@ -1,12 +1,12 @@
 # Kunstprojecten
 
-## Marichy
+## Marichi
 ### 11-6-2023
 
-"Marichi" beeldt de klassieke yoga-pose Marichyasana B uit: "Marichy's houding". In het maken van scultpuren en
-fotografie laat ik mij vaak inspireren door klassieke poses - yoga vormt een onuitputtelijke bron van schoonheid om
-invulling te geven aan de meest prachtige figuurstudies. In dit geval heb ik de sculptuur gecombineerd met een fossiel,
-een half-doorgeslepen en gepolijste grote ammoniet.
+"Marichi" beeldt de klassieke yoga-pose [Marichyasana B](https://en.wikipedia.org/wiki/Marichyasana) uit: 
+"Marichy's houding". In het maken van scultpuren en fotografie laat ik mij vaak inspireren door klassieke poses - yoga
+vormt een onuitputtelijke bron van schoonheid om invulling te geven aan de meest prachtige figuurstudies. In dit geval 
+is de sculptuur gecombineerd met een fossiel: een half-doorgeslepen en gepolijste grote ammoniet.
 
 <figure>
     <a href="/static/img/marichyasana/DSC09652_wm_10pct.JPG">
