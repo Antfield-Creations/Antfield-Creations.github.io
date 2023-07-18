@@ -1,28 +1,16 @@
 ---
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 title: Antfield Creations
-description: |
-  Artful Creativity.
-  <br>
-  <img src=/static/img/logo-centered.svg style="width: 50%;"></img>
-  <br>
-  KvK: 84941634
-  <br>
-  BTW id: NL004041441B67 
-  <br>
-  Vestigingsnummer 000051027410
-  <br>
-  rein@vantveer.me
-  <br>
-  <br>
-  Postadres:
-  <br>
-  Atelier Miereveld t.a.v. Antfield
-  <br>
-  Miereveldstraat 72
-  <br>
-  3817RP Amersfoort
-  <br>
-  <br>
-  Site content © Antfield Creations
+description: |-
+  Antfield Creations: Artful Creativity.
+  Dutch Chamber of commerce 84941634, 
+  VAT id: NL004041441B67. Post address:
+  Atelier Miereveld t.a.v. Antfield,
+  Miereveldstraat 72, 3817RP Amersfoort.
+  Site content ©Antfield Creations
+
 markdown: gfm
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
