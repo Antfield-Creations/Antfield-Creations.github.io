@@ -1,5 +1,7 @@
-# Kunstprojecten
-
+---
+layout: page
+title: Sculpture
+---
 ## Marichi
 ### 11-6-2023
 
