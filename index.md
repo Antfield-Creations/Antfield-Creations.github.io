@@ -3,7 +3,7 @@ layout: page
 ---
 <link type="text/css" rel="stylesheet" href="static/style/style.css">
 
-# Creativity as a way of life
+# Creativity as the prime motivator
 
 My creative endeavours are listed under my self-employment project "Antfield Creations". I make art and software, both
 major expressions of creativity. The more obvious media, in sculpture and photography, but also in programming software.
