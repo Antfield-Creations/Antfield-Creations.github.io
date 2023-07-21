@@ -2,13 +2,22 @@
 layout: page
 title: Sculpture
 ---
+
+A large part of my expressions in art I invest into making sculpture. I focus on classical figure studies, gymnastics,
+age-old Yoga, modern [AcroYoga](https://en.wikipedia.org/wiki/Acroyoga) and dance from all ages. These sculptures I 
+design as a digital native in 3D, and materialize these ideas in bioplastics using a 3D printer. Sometimes I combine 
+these sculptures with natural materials. Often I make trial prints in smaller editions, in order to make larger prints
+in double or quadruple size.
+
+Below you find a selection of prints I made thus far.
+
 ## Marichi
 ### 11-6-2023
 
-"Marichi" beeldt de klassieke yoga-pose [Marichyasana B](https://en.wikipedia.org/wiki/Marichyasana) uit: 
-"Marichy's houding". In het maken van scultpuren en fotografie laat ik mij vaak inspireren door klassieke poses - yoga
-vormt een onuitputtelijke bron van schoonheid om invulling te geven aan de meest prachtige figuurstudies. In dit geval 
-is de sculptuur gecombineerd met een fossiel: een half-doorgeslepen en gepolijste grote ammoniet.
+"Marichi" expresses the classic yoga pose [Marichyasana B](https://en.wikipedia.org/wiki/Marichyasana): 
+"Marichy's pose". In making sculptures and images I'm often inspired by classic poses - yoga offers an endless source
+of beauty to work out into the most beautiful figure studies. In this case the sculpture is combined with a fossil: a 
+halved and polished ammonite.
 
 <figure>
     <a href="/static/img/marichyasana/DSC09652_wm_10pct.JPG">
@@ -16,30 +25,30 @@ is de sculptuur gecombineerd met een fossiel: een half-doorgeslepen en gepolijst
     </a>
     <figcaption>
         <p>Sculptuur "Marichi"</p>
-        <p><i>Materialen: PLA, Fossiel</i></p>
+        <p><i>Materials: PLA, Fossil</i></p>
     </figcaption>
 </figure>
 
-Zie ook de externe link met [meer afbeeldingen](https://purpleport.com/portfolio-image-album.asp?id=171292).
+See also [additional images](https://purpleport.com/portfolio-image-album.asp?id=171292).
 
-## Vervlochten
+## Intertwined/"Vervlochten"
 ### 23-9-2022
 
-"Vervlochten" is een sculptuur van twee dansers, elk balancerend op één been, het andere achter zich omhoog en achter
-zich vastgegrepen door hun eigen hand. Doordat ze elk met een andere hand het been achter zich grijpen, kunnen hun
-benen zich achter zich ineen haken, in een nét niet symmetrisch beeld. Met de vrije hand reiken ze achter zich naar de
-arm van de ander.
+"Intertwined" is a sculpture of two dancers, each balancing on one leg, the other raised behind them, grasped in their 
+own hand. Because they each grasp behind them with a different hand, their raised legs can lock into each other in a 
+just not quite symmetrical duo pose. With their free hand, they reach behind them to find each other again. 
 
 <figure>
     <a href="/static/img/vervlochten-full.png">
-        <img alt="Slaap" src="/static/img/vervlochten-thumbnail.png" title="Vervlochten"/>
+        <img alt="Intertwined" src="/static/img/vervlochten-thumbnail.png" title="Vervlochten"/>
     </a>
     <figcaption>
-        <p>Sculptuur "Vervlochten"</p>
-        <p><i>Materialen:PLA</i></p>
+        <p>Sculpture "Intertwined"</p>
+        <p><i>Materials:PLA</i></p>
     </figcaption>
 </figure>
 
+**The text below hasn't been translated from Dutch to English yet. Apologies. 
 
 ## Slaap
 ### 21-9-2022
