@@ -1,42 +1,46 @@
 # Software
 
+Yes, software: don't be mistaken - making software is much more a creative process and rarely a straightforward 
+translation of logic into machine-readable format. This is why I'm not so concerned with developments in AI (yet) as a
+replacement of human developers. The machines fortunately do not tell you (yet) in which direction to point your company
+or what to communicate with stakeholders. It can _assist_, but cannot replace human motivation, which is fueled by 
+emotion. This is the one thing that the rise of the machines lack.
+
 ## Expertise
 
-- Python developer 7jr+,
-    - [Pypi.org published](https://pypi.org/project/deep-geometry), Geo and Machine Learning
-      ervaring, lees meer op https://arxiv.org/abs/1806.03857
-    - QGIS plugin and test engineer: lees erover
-      op [mijn blog](https://reinvantveer.github.io/2021/04/10/qgis-plugin-development.html)
+- Python developer 7yr+,
+    - [Pypi.org published](https://pypi.org/project/deep-geometry), Geo and Machine Learning, read on https://arxiv.org/abs/1806.03857
+    - QGIS plugin and test engineer: see [my blog](https://reinvantveer.github.io/2021/04/10/qgis-plugin-development.html)
 - Open source geo engineer 15jr+
-- Kubernetes Argo workflow engineer 2jr+, met verschillende bijdragen aan
-  het [Argo Helm](https://github.com/argoproj/argo-helm) project
+- Kubernetes cloud engineer, with 3 production cluster deployments (and many, many more development clusters), 
+  experience in bare metal, and hosted: Google Kubernetes, Amazon Kubernetes, Digital Ocean Kubernetes 
+- Kubernetes Argo workflow engineer 2jr+, with contributions to the [Argo Helm](https://github.com/argoproj/argo-helm) project
 - "Test advocate" 6jr+
-- Rust ontwikkelaar 2jr+, met bijdragen aan
+- Rust developer 3jr+, with contributions to
     - retro-embedded Rust voor de [Rust Sega Megadrive](https://github.com/ricky26/rust-mega-drive)
     - [Rust Kubernetes Operator prototype](https://github.com/Pscheidl/rust-kubernetes-operator-example/pull/6)
 
-## Voorkeuren
-- Open source waar mogelijk
-- Toegewijd aan kennisoverdracht: ik ben hier gekomen dankzij diegenen die mij onderwezen hebben!
-- Remote of hybride, freelance projecten
+## Preferences
+- Open source where possible
+- Dedicated to knowledge transfer: I got here thanks to the help of others!
+- Remote or hybride, freelance projects
 
-## Projecten
-### "Side project": tutorial Kubernetes Operators met Argo ecosysteem
+## Projects
+### "Side project": tutorial Kubernetes Operators with Argo ecosysteem
 _28-2-2022_
 
-Eigenlijk gewoon uit nieuwsgierigheid, maar ook uit grote interesse voor [Argo](https://argoproj.io) zocht ik uit hoe je
-_zonder Operator SDK_ toch met minimale inspanning
-een [Kubernetes Operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) patroon kon invullen. 
-Kubernetes Operators vormen over het algemeen uitbreidingen op de Kubernetes basis-API, maar ze kunnen ook naar 
-standaard resources luisteren.
+Actually just out of curiosity, but also out of great interest for [Argo](https://argoproj.io) I looked into how you
+_without Operator SDK_ could still fill in a [Kubernetes Operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) pattern with minimal effort.
+Kubernetes Operators are generally extensions of the base Kubernetes API, but they can also go to
+standard resources listen.
 
-Het komt erop neer dat je met [Argo Events](https://argoproj.github.io/argo-events/)
-en [Argo Workflows](https://argoproj.github.io/argo-workflows/)
-een volledige operator kan opbouwen, die de volgende voordelen kent:
+The bottom line is that with [Argo Events](https://argoproj.github.io/argo-events/)
+and [Argo Workflows](https://argoproj.github.io/argo-workflows/)
+can build a complete operator, which has the following advantages:
 
-* Voor eenvoudige functionaliteit is geen custom Docker image vereist, met daarmee minder onderhoudslast
-* De operator is op deze wijze met een handvol Kubernetes manifests te realiseren
-* De werking van de operator is vele malen beter inzichtelijk omdat deze in de Argo gebruikersinterface is te
-  inspecteren
+* Simple functionality does not require a custom Docker image, which reduces maintenance burden
+* The operator can be implemented in this way with a handful of Kubernetes manifests
+* The workings of the operator are much more transparent because they are available for inspection in the Argo user 
+  interface, rather than in some logging dump.
 
-[Lees hier de volledige tutorial](https://reinvantveer.github.io/2022/01/29/easier-operator.html)
+[Read the full tutorial here](https://reinvantveer.github.io/2022/01/29/easier-operator.html)
