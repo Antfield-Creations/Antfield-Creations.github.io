@@ -4,20 +4,24 @@ title: On art nude
 menu_exclude: true
 ---
 
-In this short time span between the Great Void Before Birth and the Great Void After Death, I can think of no better
-pursuit than the respectful and collaborative creation of fine art nude.
+_In the short time span between the Great Void Before Birth and the Great Void After Death, I can think of no better
+way of spending it than the respectful and collaborative creation of nude art. I am committed to create a safe working 
+environment first, before anything else, this is paramount to achieve the free flowing of beauty, inspiration and 
+creativity. For this, I want you to know that if you are working with me: you are my hero and you can count on me to
+respect your boundaries at all times._ 
 
 # My "official" musings on art and nudity
 
-Hello and thanks for reading this. This subject has been brewing in my mind for quite a while. The body as is the main
-subject of my artistic expressions, and the female body in particular. I'll go into the wy a bit further below, but I'll
-suffice here that I simply think it is the most beautiful, aesthetic and expressive subject in the universe.
+Hello and thanks for reading this. Since I have gotten into art as one of the main ways to spend my time, this topic 
+has been brewing in my mind for quite a while. The body is the main subject of my artistic expressions, and the 
+female body in particular. I'll go into the wy a bit further below, but I'll suffice here that I simply think it
+is the most beautiful, aesthetic and expressive in the universe.
 
-If you like to know what I do and make: have a look at my [sculptures](/pages/sculpture.html) page, and my portfolio on
-[PurplePort](https://purpleport.com/portfolio/antfield).
+If you like to know what I do and make: have a look at my [sculptures](/pages/sculpture.html) page, and my photography
+portfolio on [PurplePort](https://purpleport.com/portfolio/antfield).
 
 There are several aspects of nudity and the human body that make it ideal for artistic expression. First of all, the
-human nude is immediately recognised by almost everyone as moving away from the usual cultural context. As "clothed
+human nude is immediately recognised by most as separated from the usual cultural context. As "clothed
 apes", humanity sets itself apart from the rest of nature, and nudity is mostly reserved for special occasions:
 sleeping, washing, (sometimes) swimming, making love, the sauna. That's about it. Isn't that weird?
 
@@ -28,7 +32,7 @@ shy away from. The artistic art nude creates its own context in which we can, to
 be re-acquainted with our beautiful, natural self.
 
 Yes, I do believe that because of this cultural context, _any_ art nude portrayal carries some level of eroticism, even
-(sometimes even much more so) the fully implied nude.
+(and sometimes more so) the fully implied nude.
 
 <figure>
     <a href="https://purpleport.com/portfolio/antfield/image/7837284/photographer">
