@@ -46,11 +46,11 @@ Yes, I do believe that because of this cultural context, _any_ art nude portraya
 
 ## Photography
 
-The focus in my photography usually is on art nude, but not so much on
-["bits"](https://en.wikipedia.org/wiki/Human_reproductive_system), also known as the human reproductive system. I don't
-believe that there's something wrong with bits (on the contrary), they are as beautiful as, or maybe even more beautiful
-than any other part of the human body. But including them, for example, in photography shifts the focus towards them.
-Bits tend to dominate the concept of the image, which is fine if it _is_ the concept.
+The focus in my photography usually is on art nude, but rarely
+on ["bits"](https://en.wikipedia.org/wiki/Human_reproductive_system), also known as the human reproductive system. I 
+don't believe that there's something wrong with bits (on the contrary), they are as beautiful as, or maybe even more
+beautiful than any other part of the human body. But including them, for example, in photography shifts the focus
+towards them. Bits tend to dominate the concept of the image, which is fine if it _is_ the concept.
 
 ## Sculpture
 
