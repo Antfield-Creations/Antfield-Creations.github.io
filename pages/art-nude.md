@@ -4,13 +4,15 @@ title: On art nude
 menu_exclude: true
 ---
 
+# Proclaimer
 _In the short time span between the Great Void Before Birth and the Great Void After Death, I can think of no better
-way of spending it than the respectful and collaborative creation of nude art. I am committed to create a safe working 
-environment first, before anything else, this is paramount to achieve the free flowing of beauty, inspiration and 
-creativity. For this, I want you to know that if you are working with me: you are my hero and you can count on me to
-respect your boundaries at all times._ 
+way of spending it than the respectful and collaborative creation of nude art. I am committed to create a safe and 
+enjoyable working environment first, before anything else, this is paramount to achieve the free flowing of beauty, 
+inspiration and creativity. For this, I want you to know that if you are working with me: you are my hero and you can
+count on me to respect your boundaries at all times. You don't have to take (just) my word for this: you're always
+welcome to bring a friend to a shoot as long as they don't interfere._
 
-# My "official" musings on art and nudity
+# My view on art and nudity
 
 Hello and thanks for reading this. Since I have gotten into art as one of the main ways to spend my time, this topic 
 has been brewing in my mind for quite a while. The body is the main subject of my artistic expressions, and the 
