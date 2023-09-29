@@ -5,12 +5,12 @@ menu_exclude: true
 ---
 
 # Proclaimer
-_In the short time span between the Great Void Before Birth and the Great Void After Death, I can think of no better
-way of spending it than the respectful and collaborative creation of nude art. I am committed to create a safe and 
-enjoyable working environment first, before anything else, this is paramount to achieve the free flowing of beauty, 
+_In the short time span between the Great Void Before Birth and the Great Void After Death, I can think of few better
+ways of spending my life than on the respectful and collaborative creation of nude art. I am committed to create a safe and 
+enjoyable working environment first, before anything else, this is paramount to achieve the free flowing of movement,
 inspiration and creativity. For this, I want you to know that if you are working with me: you are my hero and you can
-count on me to respect your boundaries at all times. You don't have to take (just) my word for this: you're always
-welcome to bring a friend to a shoot as long as they don't interfere._
+count on me to respect your boundaries at all times. You don't have to take (just) my word or my references for this: 
+you're always welcome to bring a friend to a shoot._
 
 # My view on art and nudity
 
