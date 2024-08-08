@@ -11,6 +11,27 @@ in double or quadruple size.
 
 Below you find a selection of prints I made thus far.
 
+## Shibari Torii
+### 20-7-2024
+
+This sculpture is a tribute to my shibari practice and the people involved. It is as much a pure expression of my 
+desires as I dare to put into art, but it is genuine.
+
+The sculpture pose is a shibari side suspension. The tie is a simplified "Butterfly" harness as taught on 
+shibaristudy.com. The gate is a Torii, a traditional Japanese Shinto gateway, a portal where spirits are welcomed. For 
+me, it emphasizes the coming and going of my own emotions, both excitement and anxiety, pleasure and pain, success and
+failure in the spectrum of emotions and experiences that shibari offers.
+
+<figure>
+    <a href="/static/img/side-suspension.jpg">
+        <img alt="Shibari Torii" src="/static/img/side-suspension.jpg" title="Shibari Torii"/>
+    </a>
+    <figcaption>
+        <p>Sculpture "Shibari Torii"</p>
+        <p><i>Materials: PLA, Hemp rope, acrylic paint</i></p>
+    </figcaption>
+</figure>
+
 ## Marichi
 ### 11-6-2023
 
