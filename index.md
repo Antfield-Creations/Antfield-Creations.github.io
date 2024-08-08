@@ -10,7 +10,7 @@ emotionally and I make software to make a living and express myself cognitively.
 of creativity. The "art department" of my single-person institute works in sculpture and photography, the "research and
 development department" does in software programming. 
 
-The pages here, however, are on my artworks. For the engineering part, see
+The pages here, however, are on my artworks, specifically my [sculpture works](/pages/sculpture.html). For the engineering part, see
 my [other site](https://reinvantveer.github.io).
 
 NOTE that I have a ["proclaimer" on nudity in art](/pages/art-nude.html), as much of my art work revolves around this.
