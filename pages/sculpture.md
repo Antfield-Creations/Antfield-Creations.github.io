@@ -42,10 +42,10 @@ halved and polished ammonite.
 
 <figure>
     <a href="/static/img/marichyasana/DSC09652_wm_10pct.JPG">
-        <img alt="Slaap" src="/static/img/marichyasana/DSC09652_wm_thumb.JPG" title="Marichi"/>
+        <img alt="Marichi" src="/static/img/marichyasana/DSC09652_wm_thumb.JPG" title="Marichi"/>
     </a>
     <figcaption>
-        <p>Sculptuur "Marichi"</p>
+        <p>Sculpture "Marichi"</p>
         <p><i>Materials: PLA, Fossil</i></p>
     </figcaption>
 </figure>
